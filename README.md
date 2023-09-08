@@ -6,7 +6,7 @@ Optamos por projetar um site de cinema como tema principal para este projeto, re
 
 Explore nosso trabalho e descubra as interações cuidadosamente elaboradas que tornam a experiência do usuário única!
 
-#Colaboradores 
+# Colaboradores 
 
 * [Maria Laura Roriz ](https://github.com/mariialauraa) 
 * [Hugo Kazita Custodio ](https://github.com/HugoKazita)
