@@ -1,5 +1,5 @@
 # TELA 01 
-![Descrição da Imagem](caminho/para/imagens/nome-da-imagem.jpg)
+![Descrição da Imagem](Telas/Tela 1 e Tela 6.png)
 
 # TELA 02 
 ![Descrição da Imagem](caminho/para/imagens/nome-da-imagem.jpg)
