@@ -1,5 +1,5 @@
 # TELA 01 
-![Descrição da Imagem](Telas/Tela 1 e Tela 6.png)
+![Tela de login ](https://github.com/MiguelFernandes20/Projeto_IHC/assets/81828702/5509aa52-bd56-4a9c-8dbd-f7f3eb7d9dcd)
 
 # TELA 02 
 ![Descrição da Imagem](caminho/para/imagens/nome-da-imagem.jpg)
